@@ -67,7 +67,7 @@ def overlay_image(image1, image2):
 # Get image from user, create new image, and post it
 def create_and_post(username):
     twitter.get_profpic(username)
-    overlay_image('profpic.jpg', ('images/%02d.jpg' % randint(1, 30)));
+    overlay_image('profpic.jpg', ('images/%02d.jpg' % randint(1, 40)));
     twitter.tweet_image('new.png', '.@%s you\'re cyberpunk now' % username)
 
 
