@@ -19,3 +19,6 @@ You will need to create an app account on Twitter: [[instructions here]](https:/
 Once you edit the bot script to provide the necessary API keys, you can run the bot on the command line:
 
 python CyberpunkMe_Public.py
+
+##Additional
+This bot could be forked to create any kind of image overlay Twitter bot - the possibilities are only limited by your imagination.
