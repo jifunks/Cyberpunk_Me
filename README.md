@@ -5,7 +5,7 @@ Cyberpunk Twitter Bot - live version available at: [@Cyberpunk_Me](https://twitt
 Tweet "@cyberpunk_me" with the text "cyberpunk me" and the bot generates a cyberpunk avatar using your Twitter profile picture. 
 
 ## Dependencies
-You will need to install Python's [tweepy](https://github.com/tweepy/tweepy) and [Pillow](https://github.com/python-pillow/Pillow). 
+You will need to install [tweepy](https://github.com/tweepy/tweepy) and [Pillow](https://github.com/python-pillow/Pillow). 
 
 You will need to create an app account on Twitter: [[instructions here]](https://dev.twitter.com/apps)
 
@@ -18,7 +18,7 @@ You will need to create an app account on Twitter: [[instructions here]](https:/
 ## Usage
 Once you edit the bot script to provide the necessary API keys, you can run the bot on the command line:
 
-python CyberpunkMe_Public.py
+$ python CyberpunkMe_Public.py
 
 ## Additional
 This bot could be forked to create any kind of image overlay Twitter bot - the possibilities are only limited by your imagination.
